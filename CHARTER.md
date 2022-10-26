@@ -10,7 +10,7 @@ The Charter enables the philosophy of sovereign interoperability by upholding th
 
 # Section I. Freedoms
 
-## Chapter 1. Freedom to Disobey (to Resist Censorship)
+## Chapter 1. Freedom against Censorship
 
 ### Article 1
 It is our collective duty to co-create and reinforce a culture of censorship-resistance. Censorship resistance is far more a property of the community than it is of the protocol. As such, it starts and ends with every one of us. Sovereignty requires freedom to publish freely.
@@ -27,7 +27,7 @@ Slashing should not be used to confiscate funds retroactively from “malicious 
 ### Article 5
 Removing “malicious actors” from the token distribution should, barring an existential threat to the protocol, always take the form of a fork: in which a new genesis file is created for a distinct chain which rearranges the token distribution on that fork.
 
-## Chapter 2. Freedom to Move (to Fork)
+## Chapter 2. Freedom to Fork
 
 ### Article 6
 A strength of open source is that you can show, through positive action, what a more beautiful world looks like without the use of force or coercion. The right to fork is key to protecting this fundamental ethos, and should be upheld at all costs.
@@ -43,7 +43,7 @@ The percentage of centrally controlled assets (including fiat-backed stablecoins
 
 > We should think through how a user-activated fork might look like, as well as the implications for IS consumer chains, IBC channels, etc. There is a lot of nuance here.
 
-## Chapter 3. Freedom to Create and Transform Social Relationships (to be a citizen of the Hub)
+## Chapter 3. Freedom to Participate
 
 ### Article 10
 Every citizen of the Cosmos Hub has the right to participate, to form relations on the Cosmos Hub, and to experiment and propose changes to the mechanisms and processes that make up the Cosmos Hub.
