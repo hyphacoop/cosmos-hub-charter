@@ -162,7 +162,7 @@ If a council is off-boarded:
 * Funds earmarked as working capital and for the completion incentive are returned to the Treasury
 
 ### Article 39
-A council can vote to remove any of its council members with a two-thirds majority vote. The Assembly and ATOM stakers cannot remove a council member directly.
+A council can vote to remove any of its council members with a two-thirds majority vote. The Assembly can vote to remove a member of any of its councils with a two-thirds majority vote. ATOM stakers cannot remove a council member directly.
 
 ### Article 40
 A council’s budget will be streamed wherever possible, meaning that the funds are released continuously over a predetermined period of time.
