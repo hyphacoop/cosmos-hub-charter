@@ -167,11 +167,6 @@ A council can vote to remove any of its council members with a two-thirds majori
 ### Article 40
 A council’s budget will be streamed wherever possible, meaning that the funds are released continuously over a predetermined period of time.
 
-### Article 41
-Each council is responsible for coming up with their own disclosure process prior to being ratified by ATOM stakers.
-
-> We will need to think hard about how we can add assurances around one person one council, while remaining as anon friendly as possible. What level of identification is acceptable?
-
 ## Chapter 5. Allocator DAOs
 
 ### Article 42 
