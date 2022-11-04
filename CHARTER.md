@@ -101,7 +101,7 @@ The purpose of the Treasury is to support the maintenance of R&D excellence in t
 The Treasury is initially capitalized through issuance in ten tranches of 4M ATOM each.
 
 ### Article 22
-ATOM stakers must approve each tranche (where the issuance of the tranche is implemented as a governance approved software upgrade or through an in-protocol mechanism which requires governance approval). There must be a minimum interval of 8 months between each successful proposal. No more than one tranche may be issued within a calendar year.
+ATOM stakers must approve each tranche (where the issuance of the tranche is implemented as a governance approved software upgrade or through an in-protocol mechanism which requires governance approval). No more than one tranche may be issued within a calendar year.
 
 ### Article 23
 An Assembly proposal can request that a portion of the Treasury flow back to the Distribution module. The proposal may not ask for more than 10% of the value of the Treasury, and there must be a minimum interval of 1 year between such successful proposals.
