@@ -22,6 +22,7 @@
 
 ## Off-chain Governance: 
 - Off-chain governance recursively encompasses every aspect of decision making that does not happen on-chain.
-- Off-chain governance cultural norms are adopted via social consensus.
-- Social consensus is reached via an on-chain proposal called a signaling proposal.
-- Cultural norms cannot be enforced. 
+- Off-chain governance processes may arise at any time with or without social consensus.
+- Off-chain processes cannot be strictly enforced and are constantly in flux. 
+- Off-chain governance processes may be ratified via an on-chain proposal called a signaling proposal.
+- When possible, ratified processes should seek expression via on-chain governance. If not, governance processes are expected to be upheld via social norms and consensus.  
